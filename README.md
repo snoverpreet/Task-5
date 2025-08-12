@@ -11,7 +11,12 @@ There are two types of filter in wireshark
 2. Display Filter 
 
 Display Filter
-ip.addr == <ip address>
+ip.addr == ip address
+
+#Protocols Identified
+DNS 
+TCP
+HTTP
 
 Click a packet and read the three panes:
 
